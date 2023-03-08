@@ -1,0 +1,3 @@
+[submodule "submodulo2"]
+	path = submodulo2
+	url = git@github.com:Fronchak/submodulo.git
